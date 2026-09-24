@@ -18,4 +18,4 @@ plataforma-academica/
 ├── index.html       # Página principal de la plataforma académica
 ├── style.css        # Hoja de estilos básicos (diseño y maquetación)
 ├── script.js        # Lógica y comportamientos interactivos básicos (opcional)
-└── README.md        # Documentación principal del repositorio
+└── README.md        # Documentación principal del repositorio     
